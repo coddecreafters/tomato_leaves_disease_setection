@@ -6,9 +6,5 @@ Pillow
 numpy
 tensorflow==2.12.0
 streamlit
-=======
-%%writefile requirements.txt
-streamlit
-tensorflow
-Pillow
-numpy
+
+
