@@ -1,11 +1,9 @@
-# Ignore virtual environments
-tomato-env/
-tomato-env-py310/
-__pycache__/
-*.pyc
-
-# System/editor files
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
+build/ 
+dist/ 
+tomato_model.h5 
+app.spec 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+tomato-env/ 
+tomato-env-py310/ 
