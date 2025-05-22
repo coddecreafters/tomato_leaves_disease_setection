@@ -5,6 +5,3 @@ pillow
 opencv-python
 matplotlib
 # Requires Python 3.10
-
-
-
