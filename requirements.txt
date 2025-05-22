@@ -1,5 +1,7 @@
-streamlit==1.45.1
+streamlit==1.19.0
 tensorflow==2.11.0
+protobuf==3.19.6
+altair
 numpy
 pillow
 opencv-python
