@@ -1,5 +1,5 @@
 streamlit==1.19.0
-tensorflow
+tensorflow>=2.15.0
 numpy
 opencv-python
 Pillow
