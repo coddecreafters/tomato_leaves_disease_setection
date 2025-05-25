@@ -1,11 +1,7 @@
-streamlit==1.19.0
-tensorflow>=2.15.0
-protobuf==3.19.6
-altair
+streamlit
+tensorflow
 numpy
-pillow
 opencv-python
-matplotlib
-# Requires Python 3.10
-tensorflow>=2.15.0
+Pillow
+
 
